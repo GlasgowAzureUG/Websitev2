@@ -20,7 +20,14 @@ We aim to hold a meetup every two months, all **free** at the point of use thank
 </div>
 
 ### Upcoming Events
-! 2025 dates to be announced soon !
+Here are the dates for our 2025 meetups. Mark your calendars and join us for engaging talks and networking opportunities:
+
+- 26th February 2025
+- 30th April 2025
+- 25th June 2025
+- 27th August 2025
+- 29th October 2025
+- 10th December 2025
 
 ---
 
