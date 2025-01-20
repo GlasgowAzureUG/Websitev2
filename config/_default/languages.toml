@@ -1,0 +1,14 @@
+################################### English language #####################################
+[en]
+languageName = "EN"
+languageCode = "en-US"
+contentDir = "content/english"
+weight = 1
+[en.params]
+########### footer content ##########
+footer_menu_left = "Group info"
+footer_menu_middle = "Support"
+footer_menu_right = "Support"
+footer_content = "The Glasgow Azure User Group is a community driven group based in Glasgow, Scotland. "
+
+

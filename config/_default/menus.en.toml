@@ -1,0 +1,62 @@
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Events"
+url = "/events"
+weight = 2
+
+[[main]]
+name = "Past events"
+url = "/blog"
+weight = 3
+
+[[main]]
+name = "Sponsors"
+url = "/sponsors"
+weight = 4
+
+[[main]]
+name = "Organisers"
+url = "/organisers"
+weight = 5
+
+[[main]]
+name = "Contact"
+url = "/contact"
+weight = 6
+
+
+# footer menu left
+[[footer_left]]
+name = "About Us"
+url = "#"
+
+[[footer_left]]
+name = "Organisers"
+url = "/organisers"
+
+[[footer_left]]
+name = "Sponsors"
+url = "/sponsors"
+
+[[footer_left]]
+name = "FAQs"
+url = "/faq"
+
+
+# footer menu middle
+[[footer_middle]]
+name = "Code of Conduct"
+url = "/conduct"
+
+[[footer_middle]]
+name = "Privacy policy"
+url = "/privacy"
+
+[[footer_middle]]
+name = "Contact us"
+url = "/contact"

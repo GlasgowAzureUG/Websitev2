@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Past events on Glasgow Azure User Group</title>
+    <link>//localhost:1313/past-events/</link>
+    <description>Recent content in Past events on Glasgow Azure User Group</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 18 Mar 2020 10:07:21 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/past-events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adversus is a web-based dialer and practical CRM solution</title>
+      <link>//localhost:1313/past-events/post-6/</link>
+      <pubDate>Wed, 18 Mar 2020 10:07:21 +0600</pubDate>
+      <guid>//localhost:1313/past-events/post-6/</guid>
+      <description>&lt;p&gt;Heading example Here is example of hedings. You can use this heading by following markdownify rules.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2017 events</title>
+      <link>//localhost:1313/past-events/post-1/</link>
+      <pubDate>Sun, 31 Dec 2017 10:07:21 +0600</pubDate>
+      <guid>//localhost:1313/past-events/post-1/</guid>
+      <description>&lt;p&gt;A look back at our events in 2017.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2017-history&#34;&gt;2017 history&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;On August 23rd 2017, a group of engaged and enthusiastic IT professions gathered at the HAYS Recruitment in the City Centre of Glasgow.  We had two Microsoft experts as speakers cover the basics of Azure and also what serverless within the platform means.  If you didn&amp;rsquo;t managed to attend the event it was recorded&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/0yub7gseB8w?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;On the 25th October 2017, our meetup focused on Security.  We had three speakers cover everything from native Azure security products to third party products.  There was also a session that cover HoloLens and virtual reality.   The session was recorded and is available via YouTube&#xA;&lt;a href=&#34;https://youtu.be/08O6dkZytHY&#34;&#xA;&#xA;&#xA; title=&#34;Glasgow Azure User Group October 2017 meetup - Click to Watch!&#34;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;&lt;img src=&#34;//localhost:1313/img/meeting-recording.png&#34; alt=&#34;Meetup Recording&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
