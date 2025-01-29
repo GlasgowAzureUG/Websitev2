@@ -1,4 +1,4 @@
-# Glasgow Azure User Group webiste
+# Glasgow Azure User Group website
 
 
 Some hints to help when updating the site later:
@@ -14,3 +14,5 @@ Some hints to help when updating the site later:
 - The contact page uses a form that uses Formspree to help make it work. 
 
 - There is a devcontainer file that will open up a Ubuntu Dev Container within VS Code with Git, Go and Hugo Extended installed to help with editing etc. 
+
+- The sitemap needs updated under layouts\_default\sitemap.xml
