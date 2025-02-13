@@ -24,7 +24,7 @@ career_form_action = "#"
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "G-SN8413PDZ2" # example: G-XXXXXXXXXX
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
-custom_script = ""
+custom_script = "<script defer async data-host="gaug.co.uk" src="https://liteanalytics.com/lite.js"></script>"
 # copyright
 theme_copyright = true
 copyright = "Copyright by Glagsow Azure User Group"
