@@ -22,9 +22,9 @@ demo_form_action = "#!" # demo form works with [https://airform.io/] or [https:/
 # career form action
 career_form_action = "#"
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "G-SN8413PDZ2" # example: G-XXXXXXXXXX
+google_tag_manager = "GT-NB9VJVL" # example: G-XXXXXXXXXX
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
-custom_script = "<script defer async data-host="gaug.co.uk" src="https://liteanalytics.com/lite.js"></script>"
+custom_script = ""
 # copyright
 theme_copyright = true
 copyright = "Copyright by Glagsow Azure User Group"
