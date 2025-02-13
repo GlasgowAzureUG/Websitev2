@@ -51,7 +51,7 @@ crisp_website_id = "9aa449e1-9999-422a-938f-8567982eec6d" # replace this code wi
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Hugo", "Themefisher", "Gethugothemes"]
+keywords = ["Glasgow Azure User Group", "Glasgow", "Sarah Lean", "Gregor Suttie"]
 description = "Microsoft Azure user group based in Glasgow, Scotland."
 author = "Glasgow Azure User Group"
 image = "images/logo.png"                           # this image will be used as fallback if a page has no image of its own
