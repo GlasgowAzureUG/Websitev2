@@ -1,0 +1,32 @@
+# Hugo build and cache files
+.hugo_build.lock
+hugo_stats.json
+
+# Go build and module files
+go.sum
+
+# Node.js dependencies and build artifacts
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# Asset build artifacts
+.dist/
+.tmp/
+.sass-cache/
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Miscellaneous
+.lock
+jsconfig.json
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Build output
+builds/
