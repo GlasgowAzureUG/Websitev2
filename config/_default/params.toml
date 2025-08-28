@@ -113,7 +113,7 @@ link = "https://www.linkedin.com/company/glasgowazureug/"
 [[social]]
 title = "youtube"
 icon = "fab fa-youtube" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.youtube.com/watch?v=WgFjVsvNbhA&list=PLbjernQTVXit6jd2Cb4Z4872eudxqAPJ8"
+link = "https://www.youtube.com/@glasgowazureug"
 
 [[social]]
 title = "facebook"
