@@ -6,8 +6,15 @@
     <description>Recent content in Past events on Glasgow Azure User Group</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 31 Dec 2024 10:07:21 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 10:07:21 +0600</lastBuildDate>
     <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 events</title>
+      <link>//localhost:1313/blog/2025/</link>
+      <pubDate>Wed, 25 Jun 2025 10:07:21 +0600</pubDate>
+      <guid>//localhost:1313/blog/2025/</guid>
+      <description>&lt;p&gt;A look back at 2025 events and who our speakers were.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2024 events</title>
       <link>//localhost:1313/blog/2024/</link>

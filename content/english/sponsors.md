@@ -16,3 +16,7 @@ We are looking forward to working with the following partners to bring you the G
 |[![Servent](/images/serventlogogaug.png)](https://www.servent.co.uk/)|Servent are a Microsoft Cloud consultancy and Microsoft Gold Cloud Platform partner helping cloud-power large enterprises.|
 |Silver Sponsors  | [Opportunities available](https://techielass.azureedge.net/gaug/GAUG-Sponsorship-Proposal-2023.pdf)  |
 |Bronze Sponsors | [Opportunities available](https://techielass.azureedge.net/gaug/GAUG-Sponsorship-Proposal-2023.pdf)   |
+
+|Audio/Visual Sponsors |   |
+--- | --- | --- 
+|[![Auxillium IT](/images/auxillium.jpeg)](https://www.auxilium-it.com/)|Auxillium IT are an IT consultancy that have experience in cybersecurity, cloud solutions and managed IT services. 
