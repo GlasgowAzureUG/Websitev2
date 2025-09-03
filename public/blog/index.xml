@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Past events on Glasgow Azure User Group</title>
-    <link>/blog/</link>
+    <link>//localhost:1313/blog/</link>
     <description>Recent content in Past events on Glasgow Azure User Group</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 25 Jun 2025 10:07:21 +0600</lastBuildDate>
-    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2025 events</title>
-      <link>/blog/2025/</link>
+      <link>//localhost:1313/blog/2025/</link>
       <pubDate>Wed, 25 Jun 2025 10:07:21 +0600</pubDate>
-      <guid>/blog/2025/</guid>
+      <guid>//localhost:1313/blog/2025/</guid>
       <description>&lt;p&gt;A look back at 2025 events and who our speakers were.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2024 events</title>
-      <link>/blog/2024/</link>
+      <link>//localhost:1313/blog/2024/</link>
       <pubDate>Tue, 31 Dec 2024 10:07:21 +0600</pubDate>
-      <guid>/blog/2024/</guid>
+      <guid>//localhost:1313/blog/2024/</guid>
       <description>&lt;p&gt;A look back at 2024 events and who our speakers were.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023 events</title>
-      <link>/blog/2023/</link>
+      <link>//localhost:1313/blog/2023/</link>
       <pubDate>Sun, 31 Dec 2023 10:07:21 +0600</pubDate>
-      <guid>/blog/2023/</guid>
+      <guid>//localhost:1313/blog/2023/</guid>
       <description>&lt;p&gt;A look back at 2023 events and who our speakers were.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2022 events</title>
-      <link>/blog/2022/</link>
+      <link>//localhost:1313/blog/2022/</link>
       <pubDate>Sat, 31 Dec 2022 10:07:21 +0600</pubDate>
-      <guid>/blog/2022/</guid>
+      <guid>//localhost:1313/blog/2022/</guid>
       <description>&lt;p&gt;A look back at 2022 events and who our speakers were.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2021 events</title>
-      <link>/blog/2021/</link>
+      <link>//localhost:1313/blog/2021/</link>
       <pubDate>Fri, 31 Dec 2021 10:07:21 +0600</pubDate>
-      <guid>/blog/2021/</guid>
+      <guid>//localhost:1313/blog/2021/</guid>
       <description>&lt;p&gt;A look back at 2021 events and who our speakers were.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2020 events</title>
-      <link>/blog/2020/</link>
+      <link>//localhost:1313/blog/2020/</link>
       <pubDate>Thu, 31 Dec 2020 10:07:21 +0600</pubDate>
-      <guid>/blog/2020/</guid>
+      <guid>//localhost:1313/blog/2020/</guid>
       <description>&lt;p&gt;A look back at 2020 events and who our speakers were.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2019 events</title>
-      <link>/blog/2019/</link>
+      <link>//localhost:1313/blog/2019/</link>
       <pubDate>Tue, 31 Dec 2019 10:07:21 +0600</pubDate>
-      <guid>/blog/2019/</guid>
+      <guid>//localhost:1313/blog/2019/</guid>
       <description>&lt;p&gt;A look back at 2019 events and who our speakers were.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2018 events</title>
-      <link>/blog/2018/</link>
+      <link>//localhost:1313/blog/2018/</link>
       <pubDate>Mon, 31 Dec 2018 10:07:21 +0600</pubDate>
-      <guid>/blog/2018/</guid>
+      <guid>//localhost:1313/blog/2018/</guid>
       <description>&lt;p&gt;A look back at 2018 events and who our speakers were.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2017 events</title>
-      <link>/blog/2017/</link>
+      <link>//localhost:1313/blog/2017/</link>
       <pubDate>Sun, 31 Dec 2017 10:07:21 +0600</pubDate>
-      <guid>/blog/2017/</guid>
+      <guid>//localhost:1313/blog/2017/</guid>
       <description>&lt;p&gt;A look back at 2017 events and who our speakers were.&lt;/p&gt;</description>
     </item>
   </channel>

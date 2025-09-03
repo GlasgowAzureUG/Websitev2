@@ -2,6 +2,7 @@
   "htmlElements": {
     "tags": [
       "a",
+      "base",
       "body",
       "br",
       "button",
@@ -27,7 +28,6 @@
       "main",
       "meta",
       "nav",
-      "noscript",
       "ol",
       "p",
       "picture",
