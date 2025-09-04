@@ -14,8 +14,8 @@ We are looking forward to working with the following partners to bring you the G
 --- | --- | --- 
 |[![Telefonica Tech UK](/images/telefonica.png)](https://telefonicatech.uk/)|Telefonica Tech UK are a leading Microsoft Dynamics (AX, NAV and CRM) and Dynamics 365 partner with a wide range of services including Azure, Data Science and Power BI.|
 |[![Servent](/images/serventlogogaug.png)](https://www.servent.co.uk/)|Servent are a Microsoft Cloud consultancy and Microsoft Gold Cloud Platform partner helping cloud-power large enterprises.|
-|Silver Sponsors  | [Opportunities available](https://techielass.azureedge.net/gaug/GAUG-Sponsorship-Proposal-2023.pdf)  |
-|Bronze Sponsors | [Opportunities available](https://techielass.azureedge.net/gaug/GAUG-Sponsorship-Proposal-2023.pdf)   |
+|Silver Sponsors  | [Opportunities available](/files/gaug-sponsorship-2526.pdf)  |
+|Bronze Sponsors | [Opportunities available](/files/gaug-sponsorship-2526.pdf)   |
 
 |Audio/Visual Sponsors |   |
 --- | --- | --- 
