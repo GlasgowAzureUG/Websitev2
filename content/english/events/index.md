@@ -24,6 +24,10 @@ Here are the dates for our 2025 meetups. Mark your calendars and join us for eng
 
 - [29th October 2025](https://www.meetup.com/glasgow-azure-user-group/events/308646584/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
 - [10th December 2025](https://www.meetup.com/glasgow-azure-user-group/events/308646607/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
+- 25th February 2026
+- 29th April 2026
+- 30th September 2026
+- 9th December 2026
 
 ---
 
