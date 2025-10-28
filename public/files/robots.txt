@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://glasgowazureug.co.uk/sitemap.xml
