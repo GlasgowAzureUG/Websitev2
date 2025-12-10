@@ -20,7 +20,7 @@ We aim to hold a meetup every two months, all **free** at the point of use thank
 </div>
 
 ### Upcoming Events
-Here are the dates for our 2026 meetups. Mark your calendars and join us for engaging talks and networking opportunities:
+Here are the dates for our upcoming meetups. Mark your calendars and join us for engaging talks and networking opportunities:
 
 - 25th February 2026
 - 29th April 2026
