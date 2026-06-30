@@ -41,6 +41,15 @@ enable = true
 label = "Contact us"
 link = "contact"
 
+# Site-wide announcement bar (shown above the header on every page)
+# Toggle `enable` to false to hide the bar.
+[announcement]
+enable = true
+label = "Important update"
+text = "Sarah is stepping back from running the Glasgow Azure User Group at the end of 2026 — and we're looking for new organisers to take it forward."
+cta = "Read the full announcement"
+link = "/announcement"
+
 
 # crisp chat
 # crisp chat module: https://github.com/gethugothemes/hugo-modules/tree/master/components/crisp-chat

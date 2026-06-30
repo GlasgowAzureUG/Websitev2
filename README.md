@@ -16,3 +16,13 @@ Some hints to help when updating the site later:
 - There is a devcontainer file that will open up a Ubuntu Dev Container within VS Code with Git, Go and Hugo Extended installed to help with editing etc. 
 
 - The sitemap needs updated under layouts\_default\sitemap.xml
+
+## Site-wide announcement bar
+
+There's a dismissible-style announcement bar that appears above the navigation on every page. It's used for important community-wide news (e.g. organiser changes, event updates).
+
+- **Toggle it on/off**: edit the `[announcement]` block in `config/_default/params.toml` and set `enable = true` or `enable = false`.
+- **Change the wording, label, or CTA**: edit the same `[announcement]` block (`label`, `text`, `cta`, `link` fields).
+- **Edit the full announcement page**: it lives at `content/english/announcement.md` and is published at `/announcement/`.
+- **Styling**: the bar's CSS lives in `assets/scss/custom.scss` (Azure-blue gradient). The theme's `style.scss` already imports `custom.scss`, so any tweaks made there will be picked up on the next Hugo build.
+- **Layout files**: the bar is rendered by `layouts/partials/announcement-bar.html` and included via the project-level override `layouts/_default/baseof.html` (so the vendored theme isn't modified).
