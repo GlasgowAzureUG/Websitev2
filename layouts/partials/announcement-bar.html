@@ -1,0 +1,19 @@
+{{ $a := site.Params.announcement }}
+{{ if and $a $a.enable }}
+<div class="announcement-bar" role="region" aria-label="Site announcement">
+  <div class="container">
+    <div class="announcement-bar__inner">
+      <span class="announcement-bar__text">
+        {{ with $a.label }}<strong class="announcement-bar__label">{{ . }}</strong>{{ end }}
+        {{ $a.text | markdownify }}
+      </span>
+      {{ with $a.link }}
+      <a class="announcement-bar__cta" href="{{ . | relLangURL }}">
+        {{ $a.cta | default "Read more" }}
+        <i class="fas fa-arrow-right"></i>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
