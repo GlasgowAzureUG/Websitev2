@@ -2,6 +2,6 @@
 title: "Past events"
 subtitle: "Event history"
 # meta description
-description: "Event history of the Glasgow Azure User Group."
+description: "Browse the Glasgow Azure User Group event archive for past meetups, talks, speakers and recordings from previous years."
 draft: false
 ---

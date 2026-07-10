@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 subtitle: ""
 # meta description
-description: "This is the Glasgow Azure User Group's website privacy policy. "
+description: "Read how the Glasgow Azure User Group handles cookies, analytics and visitor data across our community website and event pages."
 draft: false
 ---
 

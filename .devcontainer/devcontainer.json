@@ -1,34 +1,39 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
-// README at: https://github.com/devcontainers/templates/tree/main/src/ubuntu
+// devcontainer spec at: https://containers.dev
 {
-	"name": "Ubuntu",
-	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/base:jammy",
+	"name": "GAUG Hugo Site",
+	// Use the prebuilt Go dev container image. Go, Git and common CLI tools are already
+	// baked in, so we avoid the slow "install Go" and "build Git from source" feature steps
+	// that previously ran on every container build.
+	"image": "mcr.microsoft.com/devcontainers/go:1.23-bookworm",
 	"features": {
-		"ghcr.io/devcontainers/features/go:1": {
-			"version": "latest"
-		},
+		// Only Hugo needs to be layered on top of the Go image. Pinning the version keeps the
+		// download cacheable and matches the site's minimum required Hugo version.
 		"ghcr.io/devcontainers/features/hugo:1": {
 			"extended": true,
 			"version": "0.124.1"
-		},
-		"ghcr.io/devcontainers/features/git:1": {
-			"version": "latest"
+		}
+	},
+	// Warm the Hugo module cache once after creation so the first `hugo` build/serve is fast.
+	// Runs during Codespaces prebuilds too, keeping day-to-day opens quick. Non-fatal on error.
+	"postCreateCommand": "hugo mod get ./... || true",
+	// The Hugo dev server (`hugo server`) listens on 1313.
+	"forwardPorts": [
+		1313
+	],
+	"portsAttributes": {
+		"1313": {
+			"label": "Hugo Dev Server",
+			"onAutoForward": "notify"
+		}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"golang.go",
+				"budparr.language-hugo-vscode",
+				"esbenp.prettier-vscode"
+			]
 		}
 	}
-
-	// Features to add to the dev container. More info: https://containers.dev/features.
-	// "features": {},
-
-	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	// "forwardPorts": [],
-
-	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "uname -a",
-
-	// Configure tool-specific properties.
-	// "customizations": {},
-
-	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
-	// "remoteUser": "root"
 }

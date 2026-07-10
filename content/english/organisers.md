@@ -2,7 +2,7 @@
 title: "Organisers"
 subtitle: ""
 # meta description
-description: "Check out who organises the Glasgow Azure User Group."
+description: "Meet the organisers behind the Glasgow Azure User Group and learn how they support the community, events and wider tech network."
 draft: false
 ---
 

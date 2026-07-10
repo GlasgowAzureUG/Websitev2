@@ -4,7 +4,7 @@
     <title>Frequently Asked Questions on Glasgow Azure User Group</title>
     <link>//localhost:1313/faq/</link>
     <description>Recent content in Frequently Asked Questions on Glasgow Azure User Group</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <atom:link href="//localhost:1313/faq/index.xml" rel="self" type="application/rss+xml" />
   </channel>

@@ -2,7 +2,7 @@
 title: "Frequently Asked Questions"
 subtitle: ""
 # meta description
-description: "FAQ for Glasgow Azure User Group."
+description: "Answers to common questions about attending Glasgow Azure User Group meetups, including tickets, food, accessibility and speakers."
 draft: false
 ---
 

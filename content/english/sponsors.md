@@ -2,7 +2,7 @@
 title: "Sponsors"
 subtitle: ""
 # meta description
-description: "Check out the Glasgow Azure User Group sponsors and sponsor opportunities."
+description: "Find the Glasgow Azure User Group sponsors, learn how they support our events, and explore opportunities to get involved."
 draft: false
 ---
 
