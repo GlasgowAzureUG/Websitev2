@@ -2,7 +2,7 @@
 title: "Contact Us"
 subtitle: ""
 # meta description
-description: "Contact the team behind the Glasgow Azure User Group."
+description: "Get in touch with the Glasgow Azure User Group to ask questions, suggest talks, or discuss sponsorship and community involvement."
 draft: false
 layout: "contact"
 ---

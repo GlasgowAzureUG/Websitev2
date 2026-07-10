@@ -2,7 +2,7 @@
 title: "Code of Conduct"
 subtitle: ""
 # meta description
-description: "This is the Glasgow Azure User Group Code of Conduct. "
+description: "Read the Glasgow Azure User Group code of conduct, including our expectations for respectful behaviour and how to report concerns."
 draft: false
 ---
 

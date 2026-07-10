@@ -2,7 +2,7 @@
 title: "Events"
 subtitle: ""
 # meta description
-description: "Glasgow Azure User Group event information."
+description: "Find upcoming Glasgow Azure User Group events, ticket links and information for speakers, attendees and sponsors."
 draft: false
 ---
 
