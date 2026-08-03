@@ -1,6 +1,6 @@
 ---
 title: "An update on the Glasgow Azure User Group"
-description: "A personal update from Sarah on the future of the Glasgow Azure User Group — and an invitation for someone to help shape what comes next."
+description: "A personal update from Sarah on the future of the Glasgow Azure User Group — and an introduction to Alyn Peden, who will be taking over as organiser."
 draft: false
 ---
 
@@ -12,7 +12,7 @@ I hope you're all doing well.
 
 I wanted to share some personal news about the Glasgow Azure User Group and, more importantly, what it means for the future of our community.
 
-**After a lot of thought, I've decided to step back from running the Glasgow Azure User Group at the end of this year.**
+**After a lot of thought, I've decided to step back from running the Glasgow Azure User Group at the end of this year — and I'm delighted to announce that Alyn Peden will be taking over as organiser.**
 
 Back in 2017, I was hearing more and more about cloud computing and wanted to learn more. At the time, the only Azure user group I could find was in London — so I decided to start one here in Glasgow. I never imagined where that decision would lead.
 
@@ -26,31 +26,21 @@ I'd also like to thank Gregor for his support as co-organiser over the years. Co
 
 The good news is that the Glasgow Azure User Group is **not** coming to an end.
 
-Our **September and December events are already planned**, and I'll continue organising and hosting both of them as normal.
+Our **September and December events are already planned**, and I'll continue organising and hosting both of them alongside Alyn, before handing things over fully from **2027 onwards**.
 
-What happens after that depends on whether someone is willing to take the reins.
+## Say hello to Alyn
 
-## Could you help?
+Alyn is the Technical Director and Co-Founder of Auxilium IT Consultancy, based here in Scotland. With 20 years of industry experience across sectors like government, finance, health, and insurance, Alyn specialises in End User Compute, Security, and Managed Service Provider (MSP) services. Outside of work, you'll usually find Alyn on a golf course or out for a run.
 
-I'm looking for someone — or ideally a small team — to take over organising the user group from **2027 onwards**.
+Alyn has been a familiar face at our events, and shares the same passion for bringing people together and helping others learn about Azure and the cloud. I couldn't be happier to be passing things on to safe hands.
 
-You don't need to be the world's leading Azure expert.
+You can connect with Alyn on [LinkedIn](https://www.linkedin.com/in/alyn-p-0989975b/).
 
-If you're organised, enjoy bringing people together, and care about helping others learn, you already have many of the qualities needed. I'm committed to making the transition as easy as possible, including:
-
-- Documenting everything we do behind the scenes
-- Introducing you to our sponsors and speakers
-- Giving you the opportunity to shadow me during the remaining events this year
-
-If you've ever enjoyed attending the Glasgow Azure User Group and wondered how you could give something back, this could be your opportunity.
+Over the coming months, I'll be working closely with Alyn to document everything we do behind the scenes, make introductions to our sponsors and speakers, and make sure the handover is as smooth as possible.
 
 ## Looking ahead
 
 The Glasgow Azure User Group has always been bigger than any one person. My hope is that it continues to grow, inspire people, and provide a welcoming place for anyone interested in Azure and cloud technologies for many years to come.
-
-If you'd like to chat about taking on the organiser role — or even if you're just curious about what's involved — **I'd love to hear from you**. There's absolutely no obligation, and I'm happy to answer any questions.
-
-[Get in touch via our contact page →](/contact)
 
 Thank you again for being part of this incredible community. I hope to see many of you at our September and December events.
 
