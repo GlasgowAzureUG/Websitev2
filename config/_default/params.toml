@@ -46,7 +46,7 @@ link = "contact"
 [announcement]
 enable = true
 label = "Important update"
-text = "Sarah is stepping back from running the Glasgow Azure User Group at the end of 2026 — and we're looking for new organisers to take it forward."
+text = "Sarah is stepping back from running the Glasgow Azure User Group at the end of 2026 — and we're excited to announce Alyn Peden will be taking over as organiser."
 cta = "Read the full announcement"
 link = "/announcement"
 
