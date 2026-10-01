@@ -22,7 +22,6 @@ We aim to hold a meetup every two months, all **free** at the point of use thank
 ### Upcoming Events
 Here are the dates for our upcoming meetups. Mark your calendars and join us for engaging talks and networking opportunities:
 
-- [30th September 2026](https://www.meetup.com/glasgow-azure-user-group/events/312377177/?eventOrigin=group_upcoming_events&utm_medium=referral&utm_campaign=event_card_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=206156312)
 - 9th December 2026
 
 ---
