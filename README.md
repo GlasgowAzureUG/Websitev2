@@ -26,3 +26,11 @@ There's a dismissible-style announcement bar that appears above the navigation o
 - **Edit the full announcement page**: it lives at `content/english/announcement.md` and is published at `/announcement/`.
 - **Styling**: the bar's CSS lives in `assets/scss/custom.scss` (Azure-blue gradient). The theme's `style.scss` already imports `custom.scss`, so any tweaks made there will be picked up on the next Hugo build.
 - **Layout files**: the bar is rendered by `layouts/partials/announcement-bar.html` and included via the project-level override `layouts/_default/baseof.html` (so the vendored theme isn't modified).
+
+## YouTube recordings
+
+Past event pages use Hugo's `{{< youtube VIDEO_ID >}}` shortcode. The project override in `layouts/shortcodes/youtube.html` preserves the Hugo 0.124.1 shortcode behavior and sets `referrerpolicy="strict-origin-when-cross-origin"` on each player.
+
+YouTube requires an HTTP `Referer` identifying the embedding site. The live site's `Referrer-Policy: same-origin` header otherwise suppresses it for YouTube, causing player configuration Error 153. The iframe policy sends only the site's origin to YouTube without changing the policy for the rest of the page.
+
+After deployment, check a recording on `/blog/2025/` over HTTPS and confirm that the YouTube embed request includes `Referer: https://www.gaug.co.uk/` in the browser's Network panel. Test playback in a browser without referrer-blocking extensions; opening a generated HTML file directly is not a valid playback test.
