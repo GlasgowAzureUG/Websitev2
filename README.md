@@ -17,6 +17,10 @@ Some hints to help when updating the site later:
 
 - The sitemap needs updated under layouts\_default\sitemap.xml
 
+## Homepage banner image
+
+Set `banner.image` in `content/english/_index.md` to an image path relative to `assets/` (for example, `images/screenshot.svg`). The homepage uses the shared Hugo image partial to publish the asset; using the path directly as an image URL does not copy it into the built site.
+
 ## Site-wide announcement bar
 
 There's a dismissible-style announcement bar that appears above the navigation on every page. It's used for important community-wide news (e.g. organiser changes, event updates).
