@@ -14,7 +14,9 @@
         {{ end }}
         {{ end }}
 
-        {{ with .image }}<img src="{{ . | relURL }}" alt="{{ $.Params.banner.title }}" class="img-fluid mt-5" width="750px">{{ end }}
+        {{ with .image }}
+        {{ partial "image" (dict "Src" . "Alt" $.Params.banner.title "Class" "img-fluid mt-5" "Size" "750x" "Loading" "eager") }}
+        {{ end }}
       </div>
     </div>
   </div>
